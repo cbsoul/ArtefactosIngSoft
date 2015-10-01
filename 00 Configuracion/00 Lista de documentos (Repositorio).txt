@@ -49,4 +49,6 @@ Lista de documentos sin versión. Determina la ubicación de dicho documento en el
 
 	00 Lista de documentos.txt
 
+../100 Formatos en blanco/
 
+	00 Lista de documentos.txt
