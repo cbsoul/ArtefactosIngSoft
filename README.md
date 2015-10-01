@@ -10,13 +10,21 @@ la única.
 Los procesos son los siguientes:
 
 00 .- Administración de la Configuración (AGL)
+
 01 .- Análisis (ECG)
+
 02 .- Diseño (BGR)
+
 03 .- Implementación (AGL y BGR)
+
 03a.- Pruebas Unitarias (ECG)
+
 04 .- Integración (AGL y ECG)
+
 05 .- Pruebas integrales (AGL, ECG y BGR)
+
 06 .- Mantenimiento 
+
 07 .- Medición (AGL, ECG y BGR)
 
 # 00 .- Administración de la configuración (AGL)
