@@ -4,7 +4,7 @@ Repositorio de artefactos
 El repositorío cuenta con las siguientes divisiónes para archivar los debidos artefactos
 correspondientes a cada uno de los procesos y a cada una de las iteraciones. 
 
-A continuación del proceso se encuentran las iniciales de la persona responsable.
+A continuación del proceso se encuentran las iniciales de la persona responsable. (aunque todos el equipo colabore) 
 
 Los procesos son los siguientes:
 
