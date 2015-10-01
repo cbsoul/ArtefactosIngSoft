@@ -1,0 +1,45 @@
+Lista de documentos sin versión. Determina la ubicación de dicho documento en el repositorio. 
+
+../
+
+	README.md
+
+../00 Configuración/
+
+	00 Lista de documentos (Repositorio).txt
+	01 Estructura general.txt
+	02 Manual de procedimientos (Repositorio).docx
+
+../01 Analisis/
+
+	00 Lista de documentos.txt
+	01 Análisis Conceptual (Información Proporcionada).docx
+
+../02 Diseño/
+
+	00 Lista de documentos.txt
+
+../03 Implementacion/
+
+	00 Lista de documentos.txt
+
+../04 Pruebas unitarias/
+
+	00 Lista de documentos.txt
+
+../05 Integracion/
+
+	00 Lista de documentos.txt
+
+../06 Pruebas Integrales/ 
+
+	00 Lista de documentos.txt
+
+../07 Medicion/
+
+	00 Lista de documentos.txt
+
+../08 Mantenimiento/
+
+	00 Lista de documentos.txt
+
