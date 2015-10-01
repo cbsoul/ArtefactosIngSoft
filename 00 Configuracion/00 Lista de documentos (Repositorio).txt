@@ -4,11 +4,17 @@ Lista de documentos sin versión. Determina la ubicación de dicho documento en el
 
 	README.md
 
-../00 Configuración/
+../00 Configuracion/
 
+	a00 Manual de Procedimientos
 	00 Lista de documentos (Repositorio).txt
 	01 Estructura general.txt
-	02 Manual de procedimientos (Repositorio).docx
+	
+	
+../00 Configuracion/a00 Manual de procedimientos/
+
+	00 Lista de documentos.txt
+	01 Manual de procedimientos (Repositorio).docx
 
 ../01 Analisis/
 
@@ -42,4 +48,5 @@ Lista de documentos sin versión. Determina la ubicación de dicho documento en el
 ../08 Mantenimiento/
 
 	00 Lista de documentos.txt
+
 
